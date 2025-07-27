@@ -3,7 +3,7 @@
 client_id = "478d29f57b465a8261c0314c63807112"
 name = "robb-fox-app-dev"
 handle = "robb-fox-app-dev"
-application_url = "https://floating-pam-activities-mice.trycloudflare.com"
+application_url = "https://soa-beside-driven-rug.trycloudflare.com"
 embedded = true
 
 [build]
@@ -26,7 +26,7 @@ api_version = "2025-07"
 scopes = "write_products"
 
 [auth]
-redirect_urls = ["https://floating-pam-activities-mice.trycloudflare.com/auth/callback", "https://floating-pam-activities-mice.trycloudflare.com/auth/shopify/callback", "https://floating-pam-activities-mice.trycloudflare.com/api/auth/callback"]
+redirect_urls = ["https://soa-beside-driven-rug.trycloudflare.com/auth/callback", "https://soa-beside-driven-rug.trycloudflare.com/auth/shopify/callback", "https://soa-beside-driven-rug.trycloudflare.com/api/auth/callback"]
 
 [pos]
 embedded = false
